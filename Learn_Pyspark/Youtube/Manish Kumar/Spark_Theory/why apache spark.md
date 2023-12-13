@@ -77,5 +77,29 @@ stateDiagram
    v3 --> "BIGDATA"
   
 ```
+**Issues**
+1. Storage
+2. Processing
+   - First nested list item
+   - Second nested list item
 
+```
+Now there were two options to resolve these issues
+```
+
+```mermaid
+stateDiagram-v2
+    state "Options" as o
+    state "Monolithic Approach(Vertical Scaling)" as m
+    state "Distributed Approach(Horizontal Scaling)" as h
+    o --> m
+    o --> h    
+```
+
+|Monolithic|Distributed|     
+|------|------|
+|Vertical Scaling|Horizontal Scaling|   
+| Expensive|Economical|   
+| Low Availability|High Availability| 
+| <img src="https://drive.google.com/uc?id=1fAnjmWEMsJx22kxmVEH7dkEmyCgjxk2r" alt="drawing" style="width:250px;"/>|<img src="https://drive.google.com/uc?id=1u4qn2JS80gi83nmy-qfMzL9GlBNaScWQ" alt="drawing" style="width:250px;"/> |  
 
