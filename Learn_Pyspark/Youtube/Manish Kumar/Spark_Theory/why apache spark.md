@@ -80,8 +80,8 @@ stateDiagram
 **Issues**
 1. Storage
 2. Processing
-   - First nested list item
-   - Second nested list item
+   - RAM
+   - CPU
 
 ```
 Now there were two options to resolve these issues
