@@ -100,6 +100,6 @@ stateDiagram-v2
 |------|------|
 |Vertical Scaling|Horizontal Scaling|   
 | Expensive|Economical|   
-| Low Availability|High Availability| 
-| <img src="https://drive.google.com/uc?id=1fAnjmWEMsJx22kxmVEH7dkEmyCgjxk2r" alt="drawing" style="width:250px;"/>|<img src="https://drive.google.com/uc?id=1u4qn2JS80gi83nmy-qfMzL9GlBNaScWQ" alt="drawing" style="width:250px;"/> |  
+| Low Availability<br><img src="https://drive.google.com/uc?id=1ys5v0KpfRuDAHWOLnU0VN3sT90o2lyie" alt="drawing" style="width:350px;"/>|High Availability<br><img src="https://drive.google.com/uc?id=1EFk7zbNKjWAb4FKBR5KitdJZcJnAc_lJ" alt="drawing" style="width:350px;"/>| 
+  
 
