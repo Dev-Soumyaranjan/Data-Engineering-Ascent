@@ -207,7 +207,7 @@ Consider having a separate table for customer information and orders with each r
 Splitting a table with customer details and their respective orders into separate tables for customers and orders.
 
 ## PRIMARY KEY
-- Primary key constraint is used to uniquely identify a row in a table. And it ensures that there are now duplicate rows. It can be created on single column or on multiple column.
+- Primary key constraint is used to uniquely identify a row in a table. And it ensures that there are no duplicate rows. It can be created on single column or on multiple column.
 
 - Where as foreign key establishes the connection between two tables based on the values of a column or set of columns. It defines a column or set of columns in a table that refers to the primary key of another table.
 
