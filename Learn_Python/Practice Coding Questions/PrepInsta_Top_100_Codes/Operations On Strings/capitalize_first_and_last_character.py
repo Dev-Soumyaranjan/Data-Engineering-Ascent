@@ -1,4 +1,5 @@
 def capitalizing_first_last_character(input_string):
+   # Initializing the variable to store modified string.
     updated_string = ''
     for w in input_string.split():
         word = w.lower()
