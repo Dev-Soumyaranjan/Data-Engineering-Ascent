@@ -1,0 +1,9 @@
+# Ignore Windows system folders
+$RECYCLE.BIN/
+System Volume Information/
+Thumbs.db
+desktop.ini
+
+# Ignore specific project folders
+07_YouTube_And_Content_Ideas/
+08_Miscellaneous/
