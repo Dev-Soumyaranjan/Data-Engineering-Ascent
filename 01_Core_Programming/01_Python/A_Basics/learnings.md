@@ -63,3 +63,41 @@
 ### 🏷️ Tags(Constants)
 
 - `#Constants`, `#Final`, `#Typing`, `#StaticTypeChecking`, `#PythonBasics`,`Federico Azzurro`
+
+### 📚 Topics Covered - Data Type overview and Type Conversion
+
+- Built-in Data Types (Overview)
+  - Numeric Types: int, float, complex
+  - Sequence Types: list, tuple, range
+  - Mapping Type: dict
+  - Set Types: set, frozenset
+  - Boolean and NoneType
+  - Concepts of mutability and ordering
+
+- Type Conversion
+  - What is type conversion and why it's needed.
+  - Using `int()`, `float()`, `str()` for conversions.
+  - `type()` function to inspect data types.
+  - Where conversion might fail and how to handle.
+
+---
+
+### 🎯 Course / Resources - Data Type overview and Type Conversion
+
+- **Primary Course**: The Complete Guide To Mastering Python In 2024
+- **Other References**:
+  - Chat GPT explanation
+
+---
+
+### 🔎 Personal Notes - Data Type overview and Type Conversion
+
+- Examples with explanation are covered in `03_DataType_Overview_TypeConversion.ipynb`.
+- Concepts like mutability, ordering, and Python type rules added to markdown for better future revision.
+
+---
+
+### 🏷️ Tags - Data Type overview and Type Conversion
+
+- `#PythonBasics`, `#DataTypes`, `#TypeConversion`, `#BuiltInTypes`, `#BeginnerConcepts`,`Federico Azzurro`
+  
