@@ -27,6 +27,6 @@
 
 ### 🏷️ Tags
 
-- `#Variables`, `#Reusability`, `#CaseSensitivity`, `#NamingRules`,`#PythonBasics`, `#InstructorX`,`Federico Azzurro`
+- `#Variables`, `#Reusability`, `#CaseSensitivity`, `#NamingRules`,`#PythonBasics`,`Federico Azzurro`
 
 ---
