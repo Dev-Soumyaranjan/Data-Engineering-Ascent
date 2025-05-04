@@ -76,6 +76,27 @@ I’ll be maintaining a learning log in each section to track progress. You will
 
 ---
 
+## 🔑 Purpose of `additional_info.md` Files
+
+In addition to the **topic-specific learnings** stored in the `learnings.md` files across different folders (e.g., `python`, `sql`, etc.), this repository also contains **generic/overview information** stored in dedicated `additional_info.md` files for each technology. These files are intended to capture foundational concepts, best practices, and language-specific nuances that are not tied to a specific topic but are essential for a deeper understanding.
+
+### Example Files
+
+- **`python_additional_info.md`**: This file contains general information and best practices related to Python programming, such as:
+  - Static type checking in Python using `mypy` and the `typing` module
+  - Environment setup tips
+  - Python performance optimization techniques
+  - General Python best practices
+
+- **`sql_additional_info.md`**: This file provides generic information related to SQL, such as:
+  - Database optimization tips
+  - Advanced query techniques
+  - SQL performance and indexing
+
+These **`additional_info.md`** files serve as a reference guide for fundamental concepts and practices that apply across multiple topics and are valuable for anyone looking to deepen their knowledge beyond specific lessons or projects.
+
+---
+
 ### 💬 Feedback
 
 If you have any feedback, suggestions, or ideas, feel free to reach out. I value any constructive input and would love to learn from others in the data engineering community.
