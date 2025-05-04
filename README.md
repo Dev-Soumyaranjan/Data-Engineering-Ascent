@@ -17,7 +17,7 @@ The directory structure is organized as follows:
 - **01_Core_Programming**: To cover the essential programming concepts, including Python and other necessary languages.
 - **02_Data_Engineering_Core**: Core topics in data engineering, like data modeling, data warehousing, and ETL processes.
 - **03_Tools_and_Frameworks**: A place for tools and frameworks I’ll explore, such as Snowflake, Azure Data Factory (ADF), Databricks, and more.
-- **04_Interview_Preparation**: Interview-specific resources including data engineering interview questions and system design prep.
+- **04_Interview_Preparation**: Interview-specific resources including data engineering interview questions.
 - **05_Reference_Materials**: A curated list of books, articles, and references that aid in my learning process.
 - **06_Projects**: Hands-on projects that will be created to apply learned concepts into real-world scenarios.
   
@@ -84,7 +84,7 @@ If you have any feedback, suggestions, or ideas, feel free to reach out. I value
 
 ### 💥 Final Thoughts
 
-The road to mastering **data engineering** is long, and I’m just getting started. This repository is the beginning of my journey, and I’m excited to see where it will take me. Thank you for visiting, and I hope you find value in the resources and materials I will share as I progress.
+The road to mastering **data engineering** is long. This repository is the beginning of my journey, and I’m excited to see where it will take me. Thank you for visiting, and I hope you find value in the resources and materials I will share as I progress.
 
 ---
 
