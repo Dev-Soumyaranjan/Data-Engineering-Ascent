@@ -83,3 +83,33 @@ Preparing for Azure Data Engineer Associate (DP-203) — will revisit each resou
 ### 🏷️ Tags - Environment Setup & ADLS Gen2 Advanced Settings
 
 - `#ADF`, `#AzureStorage`, `#ADLSGen2`, `#SFTP`, `#Security`, `#EnvironmentSetup`, `#Covid19Project`,`#Ramesh Retnasamy`
+
+### 📚 Topics Covered - Blob to ADLS Ingestion
+
+- ✅ Understood and implemented Copy Activity to move `.tsv` data from Blob Storage to ADLS
+- ✅ Explored Linked Service, Dataset, and Pipeline setup along with proper naming conventions
+- ✅ Practiced ingestion flow: Source (.gz in Blob) → Destination (organized folders in ADLS)
+- ✅ Learned to handle real-world scenarios using:
+  - Validation Activity (check if file exists)
+  - Get Metadata Activity (inspect file structure)
+  - If Condition (conditional execution)
+  - Delete Activity (clean up source file post-copy)
+- ✅ Explored different Trigger types:
+  - Schedule Trigger (time-based)
+  - Storage Event Trigger (fires when a file lands)
+  - Tumbling Window Trigger (time-bound, batch-based with state tracking – needs deeper understanding)
+- 📌 Avoided over-documenting file-level and UI detail to stay focused on learning ADF concepts and patterns
+- 📌 Plan to explore ADF activities more deeply after course completion to master configuration and use-case-based application
+
+---
+
+### 🧠 Notes - Blob to ADLS Ingestion
+
+- Conceptual understanding is documented in `02_Data Ingestion From Azure Blob.md`
+- Deep-dive LRM reflection and interview prep in `Data Ingestion From Blob_LRM.md`
+
+---
+
+### 🏷️ Tags - Blob to ADLS Ingestion
+
+- `#ADF`, `#AzureBlob`, `#ADLS`, `#CopyActivity`, `#DataIngestion`, `#RealWorldScenarios`, `#Validation`, `#Triggers`, `#Ramesh Retnasamy`
