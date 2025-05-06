@@ -71,3 +71,7 @@ When choosing the right Azure storage service, consider:
 
 - ADF Mapping Data Flows: Ideal for no-code or low-complexity transformations; easy to build and maintain.
 - Databricks / HDInsight: Use when transformations are complex, performance-intensive, or require custom Spark logic; offers more control and scalability.
+  
+#### See the below comparision among these techs from the instructor
+
+![DataFlow_Vs_HDInsight_Databricks](Assets/DataFlow_Vs_HDInsight_Vs_Databricks.png)
